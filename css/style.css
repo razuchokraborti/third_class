@@ -1,0 +1,10 @@
+h2{
+	color: #3498db;}
+.bg_img{
+	background-image: url(../images/romace.jpg);
+	height: 500px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+}
